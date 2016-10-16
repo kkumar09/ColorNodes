@@ -1,0 +1,19 @@
+{
+	"ColorNodes":[
+		{
+			"uid":105,
+			"name":"chandu",
+			"color":"blue"
+		},
+		{
+			"uid":102,
+			"name":"Udayan",
+			"color":"red"
+		},
+		{
+			"uid":103,
+			"name":"Ajay",
+			"color":"green"
+		}
+	]
+}
